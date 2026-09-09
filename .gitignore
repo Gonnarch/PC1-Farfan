@@ -1,0 +1,9 @@
+**/__pycache__/
+*.pyc
+**/.venv/
+caso_1/downloads/
+caso_2/data/
+*.xlsx
+*.sqlite3
+*.sqlite3-*
+resultado_pruebas.csv
