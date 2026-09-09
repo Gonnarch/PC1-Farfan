@@ -35,6 +35,10 @@ Para detener cada aplicación, ejecutar `docker compose down` dentro de la carpe
 
 [Gonnarch/PC1-Farfan](https://github.com/Gonnarch/PC1-Farfan)
 
+## Videos de demostración
+
+[Ver los videos del caso 1 y caso 2 en Google Drive](https://drive.google.com/drive/folders/1qtpk5h5JIEGfoHl8MkxhqVB_QIVRFCnr?usp=sharing)
+
 ## Conclusiones
 
 1. Cada aplicación se empaqueta con su código y dependencias mediante un Dockerfile, y puede ejecutarse de forma independiente en un contenedor.
